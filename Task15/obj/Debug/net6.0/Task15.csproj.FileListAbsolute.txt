@@ -1,0 +1,15 @@
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\bin\Debug\net6.0\Task15.exe
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\bin\Debug\net6.0\Task15.deps.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\bin\Debug\net6.0\Task15.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\bin\Debug\net6.0\Task15.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\Task15.csproj.AssemblyReference.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\Task15.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\refint\Task15.dll
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\Task15.pdb
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+D:\Business Analyst\Знакомство с языками программирования\C#\Seminar2_Hometask2\Seminar2_HomeTask2\Task15\obj\Debug\net6.0\ref\Task15.dll
