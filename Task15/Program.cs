@@ -4,27 +4,22 @@
 // 7 -> да
 // 1 -> нет
 
-void Weekends(int day)
+
+Console.Write("Введите цифру, обозначающую день недели: ");
+int day = Convert.ToInt32(Console.ReadLine());
+
+
+void Weekends (int day) 
 {
-    if (day == 6 && day == 7) ;
-
-    {
-        Console.WriteLine("Выходной день -> да");
-    }
-        else if (day < 1 && day > 7)
-    {
-        Console.WriteLine("Введены некорректные данные");
-    }
-    else (0 < day <= 5);
-    {
-        Console.WriteLine("Рабочий день -> нет");
-
-    }
-    
-
+  if (day == 6 || day == 7) 
+  {
+  Console.WriteLine("(этот день выходной) -> да");
+  }
+  else if (day < 1 || day > 7) 
+  {
+    Console.WriteLine("это вообще не день недели");
+  }
+  else Console.WriteLine("(этот день не выходной) -> нет");
 }
 
-int day = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите цифру, обозначающую день недели: ");
 Weekends(day);
-
